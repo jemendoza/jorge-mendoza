@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jorge-mendoza.com/sitemap.xml
